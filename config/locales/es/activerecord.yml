@@ -242,7 +242,7 @@ es:
         video_url: "Enlace a vídeo externo"
       proposal/translation:
         title: "Título de la propuesta"
-        description: "Texto desarrollado de la propuesta"
+        description: "Describe el problema especifico que resuelve tu idea. Describe como tu idea resuelve el problema. Describe el impacto esperado, ¿Por qué consideras que tu idea y el impacto descrito es factible? Nombre de tu equipo u organización, si la propuesta es grupal (opcional)"
         summary: "Resumen de la propuesta"
         retired_explanation: "Explicación"
       user:
