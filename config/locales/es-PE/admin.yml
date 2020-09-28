@@ -265,7 +265,7 @@ es-PE:
             all: Todas
         new:
           back: Volver
-          title: Crear nuevo proceso de legislación colaborativa
+          title: Crear nuevo proceso de propuestas
           submit_button: Crear proceso
         proposals:
           select_order: Ordenar por
@@ -419,7 +419,7 @@ es-PE:
           save: "Guardar"
       title_moderated_content: Contenido moderado
       title_profiles: Perfiles
-      legislation: Legislación colaborativa
+      legislation: Propuestas
       users: Usuarios
     administrators:
       index:
