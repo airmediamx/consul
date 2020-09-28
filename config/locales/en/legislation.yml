@@ -63,11 +63,11 @@ en:
         no_open_processes: There aren't open processes
         no_past_processes: There aren't past processes
         section_header:
-          icon_alt: Collaborative legislation icon
-          title: Collaborative legislation
-          help: Help about collaborative legislation
+          icon_alt: Proposals icon
+          title: Proposals
+          help: Help about Proposals
         section_footer:
-          title: Help about collaborative legislation
+          title: Help about Proposals
           description: Participate in the debates and processes prior to the approval of new regulations or strategies. Your opinion will be considered.
       phase_not_open:
         not_open: This phase is not open yet
@@ -103,7 +103,7 @@ en:
         next_question: Next question
         first_question: First question
         share: Share
-        title: Collaborative legislation process
+        title: Proposals process
       participation:
         phase_not_open: This phase is not open
         organizations: Organisations are not permitted to participate in the debate
@@ -117,7 +117,7 @@ en:
       form:
         tags_label: "Categories"
       not_verified: "For vote proposals %{verify_account}."
-      process_title: Collaborative legislation process
+      process_title: Proposals process
     summary:
       title: "Summary"
       votes:

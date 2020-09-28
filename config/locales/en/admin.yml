@@ -498,13 +498,13 @@ en:
         index:
           create: New process
           delete: Delete
-          title: Collaborative legislation
+          title: Proposals
           filters:
             active: Active
             all: All
         new:
           back: Back
-          title: Create new collaborative legislation process
+          title: Create new Proposals process
           submit_button: Create process
         proposals:
           select_order: Sort by
@@ -691,7 +691,7 @@ en:
       title_settings: Settings
       title_site_customization: Site content
       title_booths: Voting booths
-      legislation: Collaborative Legislation
+      legislation: Proposals
       users: Users
       dashboard: Proposals dashboard
       administrator_tasks: Resources requested

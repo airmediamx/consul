@@ -498,13 +498,13 @@ es:
         index:
           create: Nuevo proceso
           delete: Borrar
-          title: Procesos de legislación colaborativa
+          title: Procesos para propuestas
           filters:
             active: Activos
             all: Todos
         new:
           back: Volver
-          title: Crear nuevo proceso de legislación colaborativa
+          title: Crear nuevo proceso de propuestas
           submit_button: Crear proceso
         proposals:
           select_order: Ordenar por
@@ -690,7 +690,7 @@ es:
       title_settings: Configuración
       title_site_customization: Contenido del sitio
       title_booths: Urnas de votación
-      legislation: Legislación colaborativa
+      legislation: Propuestas
       users: Usuarios
       dashboard: Panel de progreso de propuestas
       administrator_tasks: Recursos solicitados

@@ -98,7 +98,7 @@ en:
             - key_column: 4
               page_column: Participatory budgets
             - key_column: 5
-              page_column: Legislative processes
+              page_column: Proposals
         browser_table:
           description: "Depending on the operating system and the browser used, the key combination will be as follows:"
           caption: Key combination depending on the operating system and browser
