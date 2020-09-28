@@ -374,7 +374,7 @@ en:
         homepage: "Description"
         milestones_summary: Summary
       legislation/proposal:
-        description: "Proposal text"
+        description: "Describe the specific problem that your idea solves. Describe how your idea solves the problem. Describe the expected impact. Why do you consider your idea and the impact described to be feasible? Name of your team or organization, if the proposal is group (optional)"
         summary: "Proposal summary"
         title: "Proposal title"
         video_url: "Link to external video"
