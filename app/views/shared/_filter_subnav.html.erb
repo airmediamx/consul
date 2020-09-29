@@ -5,8 +5,14 @@
     <% if @current_filter == filter %>
       <li class="is-active"><h2><%= t("#{i18n_namespace}.filters.#{filter}") %></h2></li>
     <% else %>
-      <li><%= link_to t("#{i18n_namespace}.filters.#{filter}"),
-        current_path_with_query_params(filter: filter, page: 1) %></li>
+    
+      <% if false %>
+        for client requeriment, we hide this section, but we need analize if this afects another section func
+        <li><%= link_to t("#{i18n_namespace}.filters.#{filter}"),
+          current_path_with_query_params(filter: filter, page: 1) %>
+        </li>
+      <% end %>
+
     <% end %>
   <% end %>
 </ul>

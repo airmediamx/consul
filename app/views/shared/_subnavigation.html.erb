@@ -55,6 +55,11 @@
                                 title: t("shared.go_to_page") + t("layouts.header.help") %>
       </li>
     <% end %>
+    <% if request.env['PATH_INFO'] != root_path %>
+    <li>
+    <%= link_to "Regresar a inicio", root_path, accesskey: "0" %>
+    </li>
+  <% end %>
 
     <%= raw content_block("subnavigation_right", I18n.locale) %>
   </ul>
