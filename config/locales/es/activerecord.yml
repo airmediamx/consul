@@ -242,7 +242,7 @@ es:
         video_url: "Enlace a vídeo externo"
       proposal/translation:
         title: "Título de la propuesta"
-        description: "Describe el problema especifico que resuelve tu idea. Describe como tu idea resuelve el problema. Describe el impacto esperado, ¿Por qué consideras que tu idea y el impacto descrito es factible? Nombre de tu equipo u organización, si la propuesta es grupal (opcional)"
+        description: "Describe tu propuesta contestando claramente las siguientes 6 preguntas: 1. ¿Cuál es el problema especíco que resuelve tu idea?; 2. ¿Cómo tu idea resuelve el problema?; 3. ¿Cuál es el impacto esperado?; 4. ¿Por qué consideras que tu idea y el impacto descrito son factibles?; 5. ¿Cómo se alinea tu propuesta a la Agenda 2030 para el Desarrollo Sostenible?, 6. ¿Qué te motiva a participar?"
         summary: "Resumen de la propuesta"
         retired_explanation: "Explicación"
       user:
@@ -376,7 +376,7 @@ es:
         homepage: "Descripción"
         milestones_summary: Seguimiento del proceso
       legislation/proposal:
-        description: "Describe el problema especifico que resuelve tu idea. Describe como tu idea resuelve el problema. Describe el impacto esperado, ¿Por qué consideras que tu idea y el impacto descrito es factible? Nombre de tu equipo u organización, si la propuesta es grupal (opcional)"
+        description: "Describe tu propuesta contestando claramente las siguientes 6 preguntas: 1. ¿Cuál es el problema especíco que resuelve tu idea?; 2. ¿Cómo tu idea resuelve el problema?; 3. ¿Cuál es el impacto esperado?; 4. ¿Por qué consideras que tu idea y el impacto descrito son factibles?; 5. ¿Cómo se alinea tu propuesta a la Agenda 2030 para el Desarrollo Sostenible?, 6. ¿Qué te motiva a participar?"
         summary: "Resumen de la propuesta"
         title: "Título de la propuesta"
         video_url: "Enlace a vídeo externo"

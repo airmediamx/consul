@@ -374,7 +374,7 @@ en:
         homepage: "Description"
         milestones_summary: Summary
       legislation/proposal:
-        description: "Describe the specific problem that your idea solves. Describe how your idea solves the problem. Describe the expected impact. Why do you consider your idea and the impact described to be feasible? Name of your team or organization, if the proposal is group (optional)"
+        description: "Describe your proposal by clearly answering the following 6 questions: 1. What is the specic problem that your idea solves ?; 2. How does your idea solve the problem ?; 3. What is the expected impact ?; 4. Why do you consider that your idea and the impact described are feasible ?; 5. How does your proposal align with the 2030 Agenda for Sustainable Development? 6. What motivates you to participate?"
         summary: "Proposal summary"
         title: "Proposal title"
         video_url: "Link to external video"
